@@ -28,5 +28,6 @@ public class A1Novice {
 				System.out.println("\n" + first_letter + ". " + last + ": " + String.format("%.2f", price));
 		}
 		scan.close();
+		//see if you can find another way to do this
 	}
 }

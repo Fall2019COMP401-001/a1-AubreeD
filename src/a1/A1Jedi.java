@@ -42,6 +42,7 @@ public class A1Jedi {
 					//	customers_bought[l]++;
 					//for (int z = 0; z < num_type; z++) {
 					//		food[l] = false;
+					//SEE IF YOU CAN MAKE THIS WORK
 					//	}
 				//	}
 				//	if (food[l] == false) {

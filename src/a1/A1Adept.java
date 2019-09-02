@@ -74,6 +74,7 @@ public class A1Adept {
 		average = average / total.length;
 		
 		System.out.println("Average: " + String.format("%.2f", average));
+		//see if you can find a more compact way to do this
 	
 	}
 }
